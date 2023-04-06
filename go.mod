@@ -1,3 +1,3 @@
-module go.nc0.fr/foo
+module go.nicolaspl.com/foo
 
 go 1.19
